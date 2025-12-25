@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春を告げる(Versus The Night 0.0)",
+  "base_artist": "yama",
+  "createdAt": "2025-12-25T17:11:35.308266Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春を告げる From THE FIRST TAKE",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_春を告げる_From_THE_FIRST_TAKE_yama.txt"
+    }
+  ]
+}
